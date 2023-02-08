@@ -13,6 +13,7 @@
 -  Always ready to collaborate on interesting and challenging projects
 -  Problem Solver. 
 - love playing cricket, watching anime in free time.
+- Have a degree in Chemical engineering
 -  I’m currently open for an Intern or a new job opportunity.
  <br>
  
