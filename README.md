@@ -1,5 +1,4 @@
-<h2> Hi, I'm Kundan Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h1> Hi, I'm Kundan Kumar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p><em>Software Enthusiast </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -8,17 +7,28 @@
 [![GitHub kundan-kumar](https://img.shields.io/github/followers/kundan2747?label=follow&style=social)](https://github.com/kundan2747)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
-```javascript
-const skills = {
-  pronouns: "He" | "him",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Express],
+- Currently exploring MERN stack.
+-  Always ready to collaborate on interesting and challenging projects
+-  Problem Solver. 
+- love playing cricket, watching anime in free time.
+-  I’m currently open for an Intern or a new job opportunity.
+ <br>
+ 
 
- Bootcamp: "I have attended 6 months full stack web development course offered by masai"
-}
-```
+ <p align="center">
+
+- **SKILLS**:
+    
+    ![HTML](https://img.shields.io/badge/HTML%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  
+    ![JAVA](https://img.shields.io/badge/JAVA%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
