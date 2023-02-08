@@ -5,7 +5,7 @@
 
 
 [![Linkedin: kundan-kumar](https://img.shields.io/badge/kundankumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/kundan-kumar-516a6a149/))](https://www.linkedin.com/in/kundan-kumar-516a6a149/)
-[![GitHub kundan-kumar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/kundan2747)
+[![GitHub kundan-kumar](https://img.shields.io/github/followers/kundan2747?label=follow&style=social)](https://github.com/kundan2747)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
